@@ -1,0 +1,42 @@
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 10.18.10.3960]
+    Renderer: Intel(R) HD Graphics Family
+    Vendor:   Intel
+    VRAM:     912 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+Initialize engine version: 3.5.7f6
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\MRSTONE\MrStone_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\MRSTONE\MrStone_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\MRSTONE\MrStone_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\MRSTONE\MrStone_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\MRSTONE\MrStone_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\MRSTONE\MrStone_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\MRSTONE\MrStone_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\MRSTONE\MrStone_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.325 seconds
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 242. Operation took 144.103751 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 271. Operation took 6.342972 ms.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 244. Operation took 4.693936 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 249. Operation took 3.922019 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 249. Operation took 4.064428 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 249. Operation took 3.189447 ms.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 271. Operation took 6.611966 ms.
